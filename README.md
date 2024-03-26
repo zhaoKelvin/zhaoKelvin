@@ -5,5 +5,5 @@ I'm Kelvin, a second-year Computer Science student at the [University of Califor
 Currently, I'm working on a kahoot-styled web platform for interactive computer science learning.
 
 Some cool projects I've previously worked on:
-- [🌐 WebLite](https://github.com/zhaoKelvin/WebLite): a web browser and engine built from scratch capable of visiting any website on the web and rendering them too! (well, at least rivaling early Internet Explorer🧭)
+- [🌐 WebLite](https://github.com/zhaoKelvin/WebLite): a web browser and engine built from scratch capable of visiting any website on the web and rendering them too! (well, at least rivaling earliest available browsers🧭)
 - [🧹 Yakamoto Clean Sweep](https://maidandready.itch.io/yakamoto-clean-sweep) [[Github](https://github.com/Reallife101/YakamotoCleanSweep)]: an FPC (First Person Cleaner) about creating spotless perfection with pinpoint accuracy and speed! Featuring buttery smooth movement physics and gameplay mechanics.
